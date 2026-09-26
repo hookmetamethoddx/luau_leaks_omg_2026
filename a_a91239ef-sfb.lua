@@ -8941,7 +8941,7 @@ createStandTab(tab_stands, "Stand Skins", {
     {Name = "Shadow The World", Skins = {"None", "Booette", "GoJo", "Nah Id Win", "Shadow The World", "Shadow The Waifu"}},
     {Name = "Tusk Act 4", Skins = {"None", "Wendigo", "Tusk Dark Determination", "Tomb Crypt Tusk", "Heaven Act 4"}},
     {Name = "Crazy Diamond", Skins = {"None", "Crazy Overseer", "Neon Ascension Diamond", "Crazy Idol"}},
-    {Name = "Crazy Diamond Requiem", Skins = {"None", "Volcanic Diamond", "Jade Serenity", "Gilded Diamond", "Diamond head"}},
+    {Name = "Crazy Diamond Requiem", Skins = {"None", "New Idol", "Volcanic Diamond", "Jade Serenity", "Gilded Diamond", "Diamond head"}},
     {Name = "Chariot Requiem", Skins = {"None", "Bunny Devil", "Ghostface", "Shanks", "Control Devil"}},
     {Name = "Chilli Pepper Alternate Universe", Skins = {"None", "Zenitsu"}},
     {Name = "Weather Report", Skins = {"None", "Aang", "Korra", "Zeus OP"}},
